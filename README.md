@@ -1,5 +1,5 @@
 # rheology_tech_reports
-Rheometer data Knappe, Manga and LeFraint for the hemipelagic sediment and salton sea sediment
+Rheometer data Knappe, Manga and LeFraint (https://doi.org/10.1029/2019EA000876) for the hemipelagic sediment and salton sea sediment
 
 Each sample has two excel spread sheets. One for the static tests and one for the dynamic tests. 
 
